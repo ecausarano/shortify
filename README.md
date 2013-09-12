@@ -1,6 +1,6 @@
 # shortify
 
-An excercise in Clojure web application development based on Chas Emerik's URL shortener tutorial http://youtu.be/VVd4ow-ZcX0
+An exercise in Clojure web application development based on Chas Emerik's URL shortener tutorial http://youtu.be/VVd4ow-ZcX0
 
 ## Usage
 
